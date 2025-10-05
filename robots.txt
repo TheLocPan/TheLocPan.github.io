@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TheLocPan.github.io/sitemap.xml
+Sitemap: https://Thelocpan.github.io/sitemap.xml
